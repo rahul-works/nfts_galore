@@ -1,1 +1,2 @@
-# ntfs_galore
+# nfts_galore
+Marketplace for Nfts
